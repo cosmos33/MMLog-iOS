@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <MMAppBus/MDLoggerService.h>
+#import "MDLoggerService.h"
 #import "xlogger.h"
 
 TLogLevel TLogLevelFrom(MDLogLevel level);
